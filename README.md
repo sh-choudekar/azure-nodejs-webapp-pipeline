@@ -1,5 +1,7 @@
 # Node.js Hello World WebApp Pipeline 🌍
 
+References: https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+
 This sample demonstrates a simple **Hello World** Node.js application deployed on **Azure App Service**.
 ---
 page_type: sample
